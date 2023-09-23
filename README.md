@@ -1,16 +1,13 @@
-# fitness
+Created a mobile app using Flutter and Dart to display a variety of food
+items According to a Diet
 
-A new Flutter project.
 
-## Getting Started
+![Screenshot 2023-09-23 192202](https://github.com/aftabyo/Aftabs-Kitchen/assets/86048783/ed995e38-50ee-4ee7-9f42-98eea2feca9c)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot 2023-09-23 192214](https://github.com/aftabyo/Aftabs-Kitchen/assets/86048783/71634642-b408-43f7-b5e9-d4d3e7f7bc4a)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
